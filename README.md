@@ -1,4 +1,4 @@
-##Vuong's GitHub page
+Vuong's GitHub page
 
 STA 141B Project collaboration
 
